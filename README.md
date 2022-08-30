@@ -1,2 +1,3 @@
 # Solving-a-Merge-Conflict
-new branch stuff
+Technical Homework 1 
+
